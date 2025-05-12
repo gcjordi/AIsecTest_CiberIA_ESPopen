@@ -1,4 +1,4 @@
-# 📄 Sistema CiberAI - AISecTest: Evaluación de Autopercepción de Seguridad en Inteligencias Artificiales
+# 📄 Sistema CiberIA - AISecTest: Evaluación de Autopercepción de Seguridad en Inteligencias Artificiales
 
 ## 1. 🎯 Objetivo
 

@@ -50,4 +50,4 @@ CiberIA is a proprietary cognitive cybersecurity framework for evaluating AI mod
 
 It is developed as part of the CiberTECCH / CibraLAB research and professional ecosystem.
 
-info@techh.eu - Jordi Garcia Castillon
+info@tecch.eu - Jordi Garcia Castillon
